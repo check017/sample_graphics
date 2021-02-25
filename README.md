@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Mon Feb 22 12:27:57 2021
-
-@author: craig
-"""
-
 # Sample Graphics
 
 This is a program to sample graphics tools from the tkinter library. It
